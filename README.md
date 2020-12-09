@@ -1,4 +1,4 @@
-# BotsInC
+# Bots In C
 
 ### Time to code
 As local time varies between regions, computers typically maintain time in UTC. This, for example, allows time to be used across the internet without ambiguity. However, times in UTC must be converted to local time to be convenient for humans.
@@ -18,4 +18,5 @@ Detailed Specification in intensityBot.pdf
 ### Fruit Bot
 
 The bot successfully buys, transports and sells fruit in a simulated world.
+
 Detailed Specification about bot and virtual world in FruitBot.pdf
