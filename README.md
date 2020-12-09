@@ -19,4 +19,4 @@ Detailed Specification in intensityBot.pdf
 
 The bot successfully buys, transports and sells fruit in a simulated world.
 
-Detailed Specification about bot and virtual world in FruitBot.pdf
+Detailed Specification about bot and virtual world in fruitBot.pdf
